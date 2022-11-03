@@ -22,6 +22,6 @@
 
 ---
 
-*[Gizlilik politikasını](https://github.com/shawtybot/privacy-policy/blob/main/README.md) da okumayı unutmayın* 
+*[Gizlilik politikasını](https://github.com/shawtybot/privacy-policy/blob/main/README.md) da okumayı unutmayın.* 
 
 ##### Son Güncelleme: 3 Kasım 2022.
