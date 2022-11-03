@@ -1,27 +1,27 @@
-# **[Terms of Service of Shawty Discord Bot](https://top.gg/bot/885876809776893964)**
+# **[Shawty Discord Bot Hizmet Şartları](https://shawtybot.github.io)**
 
 ![Shawty Bot](https://cdn.discordapp.com/attachments/984627631980949504/1037774916684087296/ezgif-2-dc349347a7.jpg)
 
-Here **Shawty**/**We**/**Our** refers to ("**[bot](https://shawtybot.github.io)**" or "**[developer](https://github.com/Artidox)**")
+**»** ("**[Bot](https://shawtybot.github.io)**", "**[Geliştirici](https://github.com/Artidox)**")
 
 ---
 
-## **Termination**
+## **T.O.S**
 
-**For Server/Guild:** In case we come to know about any kind of abuse related to any bug in bot or any other, by *majority of server members or server owner*, we hold all the rights for bot to leave your server & never join again.
+**Sunucu/Lonca için:** *Sunucu üyelerinin büyük çoğunluğu veya sunucu sahibi* tarafından bot veya başka herhangi bir bug ile ilgili herhangi bir suistimal hakkında bilgi sahibi olursak, botun tüm hakları bize aittir. sunucunuz ve bir daha asla katılmayın.
 
 
-**For Users:** If we find any user abusing bot or misusing its function to bully or to cause trouble to other people, we reserve the right to ban the user from using our bot.
+**Kullanıcılar için:** Herhangi bir kullanıcının bot'u kötüye kullandığını veya işlevini kötüye kullanarak zorbalık veya diğer insanlara sorun çıkardığını tespit edersek, kullanıcının botumuzu kullanmasını yasaklama hakkımızı saklı tutarız.
 
 <!---
 
 ## **Artidox.**
 
-Content Here.
+İçerik Burada.
 -->
 
 ---
 
-*Make sure to read [Privacy Policy](https://github.com/shawtybot/privacy-policy/blob/main/README.md) too.* 
+*[Gizlilik politikasını](https://github.com/shawtybot/privacy-policy/blob/main/README.md) da okumayı unutmayın* 
 
-##### Last Update: 3th Nov, 2022.
+##### Son Güncelleme: 3 Kasım 2022.
