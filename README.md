@@ -22,6 +22,6 @@ Content Here.
 
 ---
 
-*Make sure to read [Privacy Policy](https://github.com/shawtybot/Privacy-Policy/blob/main/README.md) too.* 
+*Make sure to read [Privacy Policy](https://github.com/shawtybot/privacy-policy/blob/main/README.md) too.* 
 
 ##### Last Update: 3th Nov, 2022.
